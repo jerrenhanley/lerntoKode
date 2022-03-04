@@ -1,0 +1,56 @@
+body {
+    background-color: #f6f6f6;
+}
+
+.companyName {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 24px;
+}
+
+.inputs {
+    width: 250px;
+    margin-bottom: 16px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #dddddd;
+
+}
+.optin {
+        color:chocolate;
+        text-align: left;
+        
+    }
+
+.checkboxtext {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+button {
+    width: 125px;
+    background-color: #002E56;
+    margin-top: 24px;
+    margin-right: 12px;
+    margin-bottom: 32px;
+    padding: 12px;
+    border-radius: 4px;
+    border: none;
+    color: white;
+}
+    
+.btnlogin {
+    background-color: #ffffff;
+    color: #00539B;
+    border-radius: 2px;
+    border: none;
+}
+
+.logincard {
+    border: 2px solid #000000;
+    border-radius: 4px;
+    background-color: beige;
+    text-align: center;
+}
